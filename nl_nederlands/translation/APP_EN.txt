@@ -1,0 +1,232 @@
+The Holy Rosary
+
+[Welcome]
+WELCOME!
+Do you know how to recite the Holy Rosary?
+Yes
+No
+Ok
+To recite <font color=#FFA500><b>The Holy Rosary</b></font> TAP on the arrow at the bottom right of the screen: the grains will illuminate indicating the position.<BR><BR>To start the audio recitation TAP on the musical notes.
+Sign of the Cross
+Cancel
+The Holy Rosary Audio
+Do you want to download the necessary audio files? (just this once)<BR><BR>NEED WEB CONNECTION!
+Download completed!
+Download error!
+Check your internet connection or try again later.
+Downloading...
+There is a new audio update, do you want to download it?
+Failed to initialize the Player! Try to clear RAM by the Task Manager. If the problem persists, uninstall and reinstall the application.
+Male voice 1
+Male voice 2
+Female voice
+Baby voice
+Choose the voice:
+SD Card not found!
+SD Card is write-protected! Remove the write protection and try again.
+
+[Menù]
+Joyful Mysteries (mon-sat)
+Luminous Mysteries (thu)
+Sorrowful Mysteries (tue-fri)
+Glorious Mysteries (sun-wed)
+Prayers...
+How to pray the Rosary?
+Customize...
+Change language...
+Info
+Restart the recitation
+Change crown...
+Favorite prayers...
+Change mysteries...
+Privacy Policy
+The application <b>The Holy Rosary</b> requires the following permissions:<BR><font color=#FFA500><b>READ_PHONE_STATE</b></font><BR>This permission is only needed to stop audio recitation of <b>The Holy Rosary</b> when you receive phone calls.<BR>Therefore it is not collected, stored, archived or shared in any way phone calls, contacts, or any other sensitive data user.
+
+[Prayers]
++ In the name of the Father and of the Son and of the Holy Spirit. Amen.
+O God come to my aid.
+O Lord, make haste to help me.
+Glory be to the Father
+Hail Mary
+Our Father
+O my Jesus, forgive us our sins...
+Mary, Queen of peace
+pray for us.
+Hail Mary for an increase in faith...
+Hail Mary for an increase in hope...
+Hail Mary for an increase in charity...
+Hail, holy Queen
+It begins with the sign of the cross:
+- Glory be to the Father, and to the Son, and to the Holy Spirit.
+- As it was in the beginning, is now, and ever shall be, world without end. Amen.
+APOSTLES' CREED
+<b>O my Jesus,</b> forgive us our sins, save us from the fires of hell, and lead all souls to Heaven, especially those in most need of Your Mercy.
+Invocation
+The Loreto Litanies
+Prayers for the Pope's intentions...
+Eternal Father, I offer you the Body and Blood, Soul and Divinity of Your Dearly Beloved Son, Our Lord, Jesus Christ, in atonement for our sins and those of the whole world.
+For the sake of His sorrowful Passion, have mercy on us and on the whole world.
+Holy God, Holy Mighty One, Holy Immortal One, have mercy on us and on the whole world.
+O Blood and Water, which gushed forth from the Heart of Jesus as a fountain of Mercy for us, I trust in You!
+The Divine Mercy Chaplet
+Rosary of the Virgin Mary
+The complete Rosary
+
+[Options]
+Start with the Apostolic Creed
+Include Father, 3 Hail Marys and Glory
+Include biblical reference
+Include the Fatima prayer
+Include "Mary, Queen of peace..."
+Include the Loreto Litanies
+Enable vibration
+Go forward with TAP on the screen
+No standby screen
+Add motion effect on Mysteries
+Show initial message
+Long vibration
+Rosary beads large
+Energy savings during audio recitation
+Hide forward and back buttons (Go forward with TAP on the screen)
+Close the applications after the recitation
+Irregular shape
+-
+Loreto Litanies in Latin
+Music at the beginning and at the end of the Holy Rosary
+Use volume buttons to go forward and backward (only text, no audio)
+-
+Show notifications novenas, triduums, etc.
+-
+-
+-
+
+[Mysteries Selected]
+Joyful mysteries
+Sorrowful mysteries
+Luminous mysteries
+Glorious mysteries
+
+[Mystery]
+First Joyful Mystery
+The Annunciation of the Angel Gabriel to Mary
+«In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, to a virgin betrothed to a man whose name was Joseph, of the house of David; and the virgin's name was Mary» (Lk 1:26-27).
+«The Annunciation to Mary inaugurates the "fullness of time" (Gal 4:4), the time of the fulfilment of God's promises and preparations» (CCC, 484).
+Second Joyful Mystery
+The Visitation of Mary to her cousin Elizabeth
+«In those days Mary arose and went with haste into the hill country, to a city of Judah, and she entered the house of Zechariah and greeted Elizabeth. And when Elizabeth heard the greeting of Mary, the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit and she exclaimed with a loud cry, "Blessed are you among women, and blessed is the fruit of your womb!"» (Lk 1:39-42).
+«Mary's visitation to Elizabeth thus became a visit from God to his people» (CCC, 717).
+Third Joyful Mystery
+The Birth of Our Lord Jesus - The Nativity
+«In those days a decree went out from Caesar Augustus that all the world should be enrolled. This was the first enrollment, when Quirinius was governor of Syria. And all went to be enrolled, each to his own city. And Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be enrolled with Mary, his betrothed, who was with child. And while they were there, the time came for her to be delivered. And she gave birth to her first-born son and wrapped him in swaddling cloths, and laid him in a manger, because there was no place for them in the inn» (Lk 2:1-7).
+«Jesus was born in a humble stable, into a poor family. Simple shepherds were the first witnesses to this event. In this poverty heaven's glory was made manifest» (CCC, 525).
+Fourth Joyful Mystery
+The Presentation of Jesus in the Temple
+«And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb. And when the time came for their purification according to the law of Moses, they brought him up to Jerusalem to present him to the Lord (as it is written in the law of the Lord, "Every male that opens the womb shall be called holy to the Lord") and to offer a sacrifice according to what is said in the law of the Lord, "a pair of turtledoves, or two young pigeons"» (Lk 2:21-24).
+«Jesus' circumcision, on the eighth day after his birth, is the sign of his incorporation into Abraham's descendants, into the people of the covenant. It is the sign of his submission to the Law» (CCC, 527).
+Fifth Joyful Mystery
+Finding of the child Jesus in the Temple
+«Now his parents went to Jerusalem every year at the feast of the Passover. And when he was twelve years old, they went up according to custom; and when the feast was ended, as they were returning, the boy Jesus stayed behind in Jerusalem. His parents did not know it... After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions; and all who heard him were amazed at his understanding and his answers» (Lk 2:41-47).
+«The finding of Jesus in the temple is the only event that breaks the silence of the Gospels about the hidden years of Jesus. Here Jesus lets us catch a glimpse of the mystery of his total consecration to a mission that flows from his divine sonship: "Did you not know that I must be about my Father`s work?" (Lk 2:49)» (CCC, 534).
+First Sorrowful Mystery
+The agony in the Garden
+«Then Jesus went with them to a place called Gethsemane, and he said to his disciples, "Sit here, while I go yonder and pray." And taking with him Peter and the two sons of Zebedee, he began to be sorrowful and troubled. Then he said to them, "My soul is very sorrowful, even to death; remain here, and watch with me." And going a little farther he fell on his face and prayed, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will"» (Mt 26:36-39).
+«Such a battle and such a victory become possible only through prayer. It is by his prayer that Jesus vanquishes the Tempter, both at the outset of his public mission and in the ultimate struggle of his agony» (CCC, 2849).
+Second Sorrowful Mystery
+The Scourging of Jesus at the Pillar
+«Then Pilate took Jesus and scourged him. And the soldiers plaited a crown of thorns, and put it on his head, and arrayed him in a purple robe; they came up to him, saying, "Hail, King of the Jews!" and struck him with their hands» (Jn 19:1-3).
+«Jesus' sufferings took their historical, concrete form from the fact that he was "rejected by the elders and the chief priests and the scribes" (Mk 8:31), who "handed him to the Gentiles to be mocked and scourged and crucified" (Mt 20:19)» (CCC, 572).
+Third Sorrowful Mystery
+The Crowning of Thorns
+«Then the soldiers of the governor took Jesus into the praetorium, and they gathered the whole battalion before him. And they stripped him and put a scarlet robe upon him, and plaiting a crown of thorns they put it on his head, and put a reed in his right hand. And kneeling before him they mocked him, saying, "Hail, King of the Jews!"» (Mt 27:27-29).
+«It is love "to the end" (Jn 13:1) that confers on Christ's sacrifice its value as redemption and reparation, as atonement and satisfaction. He knew and loved us all when he offered his life» (CCC, 616).
+Fourth Sorrowful Mystery
+Jesus carries His Cross
+«And they compelled a passer-by, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross. And they brought him to the place called Golgotha (which means the place of a skull)» (Mk 15:21-22).
+«By accepting in his human will that the Father's will be done, he accepts his death as redemptive, for "he himself bore our sins in his body on the tree" (1 Pt 2:24)» (CCC, 612).
+Fifth Sorrowful Mystery
+The Crucifixion and Death of Jesus
+«And when they came to the place which is called The Skull, there they crucified him, and the criminals, one on the right and one on the left. And Jesus said, "Father, forgive them; for they know not what they do"... It was now about the sixth hour, and there was darkness over the whole land until the ninth hour, while the sun's light failed; and the curtain of the temple was torn in two. Then Jesus, crying with a loud voice, said, "Father, into thy hands I commit my spirit!" And having said this he breathed his last» (Lk 23:33-46).
+«"Christ died for our sins in accordance with the scriptures" (1 Cor 15:3)» (CCC, 619).
+First Luminous Mystery
+The Baptism of Jesus in the Jordan
+«And when Jesus was baptized, he went up immediately from the water, and behold, the heavens were opened and he saw the Spirit of God descending like a dove, and alighting on him; and lo, a voice from heaven, saying, "This is my beloved Son, with whom I am well-pleased"» (Mt 3:16-17).
+«Jesus' public life begins with his baptism by John in the Jordan. John preaches "a baptism of repentance for the forgiveness of sins" (Lk 3:3)» (CCC, 535).
+Second Luminous Mystery
+The wedding feast of Cana
+«On the third day there was a marriage at Cana in Galilee, and the mother of Jesus was there; Jesus also was invited to the marriage, with his disciples. When the wine failed, the mother of Jesus said to him, "They have no wine." And Jesus said to her, "O woman, what have you to do with me? My hour has not yet come." His mother said to the servants, "Do whatever he tells you"» (Jn 2:1-5).
+«On the threshold of his public life Jesus performs his first sign at his mother's request during a wedding feast: The Church attaches great importance to Jesus' presence at the wedding at Cana. She sees in it the confirmation of the goodness of marriage and the proclamation that thenceforth marriage will be an efficacious sign of Christ's presence» (CCC, 1613).
+Third Luminous Mystery
+The Proclamation of the Kingdom of God and the Call to Conversion
+«The time is fulfilled, and the kingdom of God is at hand; repent, and believe in the gospel» (Mk 1:15).
+«Everyone is called to enter the Kingdom. First announced to the children of Israel, this messianic kingdom is intended to accept men of all nations» (CCC, 543).
+Fourth Luminous Mystery
+The Transfiguration of Our Lord
+«And after six days Jesus took with him Peter and James and John his brother, and led them up a high mountain apart. And he was transfigured before them, and his face shone like the sun, and his garments became white as light» (Mt 17:1-2).
+«For a moment Jesus discloses his divine glory, confirming Peter's confession. He also reveals that he will have to go by the way of the cross at Jerusalem in order to 'enter into his glory' (Lk 24:26)» (CCC, 555).
+Fifth Luminous Mystery
+The Institution of the Eucharist
+«Now as they were eating, Jesus took bread, and blessed, and broke it, and gave it to the disciples and said, "Take, eat; this is my body"» (Mt 26:26).
+«By celebrating the Last Supper with his Apostles in the course of the Passover meal, Jesus gave the Jewish Passover its definitive meaning. Jesus' passing over to his Father by his Death and Resurrection, the new Passover, is anticipated in the Supper and celebrated in the Eucharist, which fulfils the Jewish Passover and anticipates the final Passover of the Church in the glory of the Kingdom» (CCC, 1340).
+First Glorious Mystery
+The Resurrection of Jesus
+«But on the first day of the week, at early dawn, they went to the tomb, taking the spices which they had prepared. And they found the stone rolled away from the tomb, but when they went in they did not find the body. While they were perplexed about this, behold, two men stood by them in dazzling apparel; and as they were frightened and bowed their faces to the ground, the men said to them, "Why do you seek the living among the dead? He is not here, but has risen"» (Lk 24:1-5).
+«"If Christ has not been raised, then our preaching is in vain and your faith is in vain" (1 Cor 15:14). The Resurrection above all constitutes the confirmation of all Christ's works and teachings» (CCC, 651).
+Second Glorious Mystery
+The Ascension of Jesus into heaven
+«So then the Lord Jesus, after he had spoken to them, was taken up into heaven, and sat down at the right hand of God» (Mk 16:19).
+«This final stage stays closely linked to the first, that is, to his descent from heaven in the Incarnation. Only the one who "came from the Father" can return to the Father: Christ Jesus» (CCC, 661).
+Third Glorious Mystery
+The Descent of the Holy Spirit at Pentecost
+«When the day of Pentecost had come, they were all together in one place. And suddenly a sound came from heaven like the rush of a mighty wind, and it filled all the house where they were sitting. And there appeared to them tongues as of fire, distributed and resting on each one of them. And they were all filled with the Holy Spirit and began to speak in other tongues, as the Spirit gave them utterance» (Acts 2:1-4).
+«"Holy Spirit" is the proper name of the one whom we adore and glorify with the Father and the Son. The Church has received this name from the Lord and professes it in the Baptism of her new children» (CCC, 691).
+Fourth Glorious Mystery
+The Assumption of the Blessed Virgin Mary
+«Henceforth all generations will call me blessed; for he who is mighty has done great things for me» (Lk 1:48-49).
+«The Most Blessed Virgin Mary, when the course of her earthly life was completed, was taken up body and soul into the glory of heaven, where she already shares in the glory of her Son's Resurrection, anticipating the resurrection of all members of his Body» (CCC, 974).
+Fifth Glorious Mystery
+The Coronation of Mary as Queen of Heaven
+«And a great portent appeared in heaven, a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars» (Rev 12:1).
+«Finally the Immaculate Virgin, preserved free from all stain of original sin, when the course of her earthly life was finished, was taken up body and soul into heavenly glory, and exalted by the Lord as Queen over all things, so that she might be the more fully conformed to her Son, the Lord of lords and conqueror of sin and death» (CCC, 966).
+
+[Rights]
+All rights reserved  2012-2019
+
+[Exit]
+EXIT
+Do you really want to exit?
+Yes
+No
+The recitation is finished!
+SEE YOU SOON...
+END
+Exit
+Please restart the application to apply the changes!
+The next time you want start from here praying the Rosary?
+Continue
+
+[Day]
+Today is Sunday. Pray the Glorious Mysteries.
+Today is Monday. Pray the Joyful Mysteries.
+Today is Tuesday. Pray the Sorrowful Mysteries.
+Today is Wednesday. Pray the Glorious Mysteries.
+Today is Thursday. Pray the Luminous Mysteries.
+Today is Friday. Pray the Sorrowful Mysteries.
+Today is Saturday. Pray the Joyful Mysteries.
+Today is Christmas. Pray the Joyful Mysteries.
+
+[Go to]
+Go to...
+First Mystery
+Second Mystery
+Third Mystery
+Fourth Mystery
+Fifth Mystery
+
+[Description]
+The Holy Rosary that automatically selects the mysteries by day with beautiful illustrations that accompany prayer.
+
+In the application there are also the main Christian prayers.
+
+In previous releases:
+
+External links can not be added to favorites. Attention!
