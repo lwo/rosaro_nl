@@ -2,7 +2,7 @@ De Heilige Rozenkrans
 
 [Welkom]
 WELKOM!
-Wilt U uitleg hoe de Rozenkrans wordt geboden"
+Wilt U uitleg hoe de Rozenkrans wordt geboden?
 Ja
 Nee
 Ok
@@ -15,7 +15,7 @@ Download voltooid!
 Download fout!
 Controleer uw internet verbinding of probeer het nog een keer.
 Downloading...
-Nieuw audio is beschikbaar, wilt U deze downloaden"
+Nieuw audio is beschikbaar, wilt U deze downloaden?
 De speler wil niet starten! Probeer RAM vrij te maken met Takenbeheer. Als het probleem blijft, verwijder en herinstalleerd deze applicatie.
 Stem 1 man
 Stem 2 man
@@ -31,7 +31,7 @@ De Lichtende geheimen (do)
 De Droevige geheimen (di-vr)
 De Glorievolle geheimen (zo-wo)
 Gebeden...
-Hoe de rozenkrans bidden
+De rozenkrans bidden
 Aanpassen...
 Wijzig taal...
 Info
@@ -52,7 +52,7 @@ Heer, kom mij spoedig te hulp.
 Eer aan de Vader
 Wees gegroet
 Onze Vader
-Goede Jesus, vergeef ons onze zonden...
+Goede Jezus, vergeef ons onze zonden...
 Maria, koningin van de vrede,
 bid voor ons.
 Wees gegroet voor een toename in Geloof...
@@ -63,7 +63,7 @@ Het begint met het kruisteken:
 - Eer aan de Vader en de Zoon en de heilige Geest.
 - Zoals het was in het begin en nu, en altijd en in de eeuwen der eeuwen. Amen.
 GELOOFSBELIJDENIS
-<b>Goede Jesus,</b> vergeef ons onze zonden. Bewaar ons voor het vuur van de hel. Breng alle zielen naar de hemel, vooral degenen die Uw barmhartigheid het meeste nodig hebben.
+<b>Goede Jezus,</b> vergeef ons onze zonden. Bewaar ons voor het vuur van de hel. Breng alle zielen naar de hemel, vooral degenen die Uw barmhartigheid het meeste nodig hebben.
 Bede
 Litanie van Loreto
 Gebeden voor de Paus intenties...
@@ -112,83 +112,83 @@ Glorievolle geheimen
 [Geheim]
 Eerste blijde geheim
 De engel Gabriël brengt de blijde boodschap aan Maria.
-«In de zesde maand werd de engel Gabriël van Godswege gezonden naar een stad in Galilea, Nazaret, tot een maagd die verloofd was met een man die Jozef heette, uit het huis van David; de naam van de maagd was Maria.» (Luc 1:26-27).
-«De boodschap aan Maria luidt de "volheid van de tijd" (Gal. 4:4) in, d.w.z. de vervulling van de beloften en de voorbereidingen. Maria wordt uitgenodigd Hem te ontvangen, in wie "de godheid in heel haar volheid lijfelijk" (Kol. 2:9) aanwezig zal zijn.» (KKK, 484).
+«In de zesde maand werd de engel Gabriël van Godswege gezonden naar een stad in Galilea, Nazaret, tot een maagd die verloofd was met een man die Jozef heette, uit het huis van David; de naam van de maagd was Maria.» (Lc. 1,26-27).
+«De boodschap aan Maria luidt de "volheid van de tijd" (Gal. 4,4) in, d.w.z. de vervulling van de beloften en de voorbereidingen. Maria wordt uitgenodigd Hem te ontvangen, in wie "de godheid in heel haar volheid lijfelijk" (Kol. 2,9) aanwezig zal zijn.» (KKK, 484).
 Tweede blijde geheim
 Maria bezoekt haar nicht Elisabeth.
-«In die dagen reisde Maria met spoed naar het bergland, naar een stad in Judea. Zij ging het huis van Zacharias binnen en groette Elisabet. Zodra Elisabet de groet van Maria hoorde, sprong het kind op in haar schoot; Elisabet werd vervuld met de heilige Geest en riep met luide stem uit: "Gij zijt gezegend onder de vrouwen en gezegend is de vrucht van uw schoot."» (Luc 1:39-42).
+«In die dagen reisde Maria met spoed naar het bergland, naar een stad in Judea. Zij ging het huis van Zacharias binnen en groette Elisabet. Zodra Elisabet de groet van Maria hoorde, sprong het kind op in haar schoot; Elisabet werd vervuld met de heilige Geest en riep met luide stem uit: 'Gij zijt gezegend onder de vrouwen en gezegend is de vrucht van uw schoot.'» (Lc. 1,39-42).
 «Het "bezoek" van Maria aan Elisabeth is zo "het bezoek van God aan zijn volk" geworden.» (KKK, 717).
 Derde blijde geheim
 Jezus wordt geboren in de stal van Bethlehem.
-«In die dagen kwam er een besluit van keizer Augustus, dat er een volkstelling moest gehouden worden in heel zijn rijk. Deze volkstelling had voor het eerst plaats toen Quirinius landvoogd van Syrië was. Allen gingen op reis, ieder naar zijn eigen stad om zich te laten inschrijven. Ook Jozef trok op en omdat hij behoorde tot het huis en geslacht van David, ging hij van Galilea uit de stad Nazaret naar Judea, naar de stad van David, Betlehem geheten, om zich te laten inschrijven, samen met Maria, zijn verloofde, die zwanger was. Terwijl zij daar verbleven, brak het uur aan waarop zij moeder zou worden; zij bracht haar zoon ter wereld, haar eerstgeborene, wikkelde hem in doeken en legde Hem neer in een kribbe, omdat er voor hen geen plaats was in de herberg.» (Luc 2:1-7).
+«In die dagen kwam er een besluit van keizer Augustus, dat er een volkstelling moest gehouden worden in heel zijn rijk. Deze volkstelling had voor het eerst plaats toen Quirinius landvoogd van Syrië was. Allen gingen op reis, ieder naar zijn eigen stad om zich te laten inschrijven. Ook Jozef trok op en omdat hij behoorde tot het huis en geslacht van David, ging hij van Galilea uit de stad Nazaret naar Judea, naar de stad van David, Betlehem geheten, om zich te laten inschrijven, samen met Maria, zijn verloofde, die zwanger was. Terwijl zij daar verbleven, brak het uur aan waarop zij moeder zou worden; zij bracht haar zoon ter wereld, haar eerstgeborene, wikkelde hem in doeken en legde Hem neer in een kribbe, omdat er voor hen geen plaats was in de herberg.» (Lc. 2,1-7).
 «Jezus is in de nederigheid van een stal geboren, in een arm gezin; eenvoudige herders zijn de eerste getuigen van het gebeuren. In deze armoede manifesteert zich de heerlijkheid van de hemel.» (KKK, 525).
 Vierde blijde geheim
 Jezus wordt in de tempel aan God opgedragen.
-«Nadat de acht dagen voorbij waren en men Hem moest besnijden, ontving Hij de naam Jezus, zoals Hij door de engel was genoemd voordat Hij in de moederschoot werd ontvangen. Toen de tijd aanbrak, waarop zij volgens de Wet van Mozes gereinigd moesten worden, brachten zij het kind naar Jeruzalem om het aan de Heer op te dragen, volgens het voorschrift van de Wet des Heren: Elke eerstgeborene van het mannelijk geslacht moet aan de Heer worden toegeheiligd, en om volgens de bepaling van de Wet des Heren een offer te brengen, namelijk een koppel tortels of twee jonge duiven."» (Luc 2:21-24).
+«Nadat de acht dagen voorbij waren en men Hem moest besnijden, ontving Hij de naam Jezus, zoals Hij door de engel was genoemd voordat Hij in de moederschoot werd ontvangen. Toen de tijd aanbrak, waarop zij volgens de Wet van Mozes gereinigd moesten worden, brachten zij het kind naar Jeruzalem om het aan de Heer op te dragen, volgens het voorschrift van de Wet des Heren: Elke eerstgeborene van het mannelijk geslacht moet aan de Heer worden toegeheiligd, en om volgens de bepaling van de Wet des Heren een offer te brengen, namelijk een koppel tortels of twee jonge duiven."» (Lc. 2,21-24).
 «De besnijdenis van Jezus op de achtste dag na zijn geboorte is het teken van zijn opname in het geslacht van Abraham, in het volk van het verbond, het teken ook van zijn onderwerping aan de wet...» (KKK, 527).
 Vijfde blijde geheim
 Jezus wordt in de tempel teruggevonden.
-«Zijn ouders reisden ieder jaar, bij gelegenheid van het paasfeest, naar Jeruzalem. En overeenkomstig het gebruik bij dit feest gingen zij opnieuw daarheen toen Hij twaalf jaar geworden was. Maar na afloop van die dagen bleef het kind Jezus, terwijl zij terugkeerden, in Jeruzalem achter, zonder dat zijn ouders het wisten. In de mening dat Hij zich bij de karavaan bevond, gingen zij een dagreis ver en zochten Hem toen onder familieleden en bekenden. Omdat zij Hem niet vonden, keerden zij al zoekende naar Jeruzalem terug. Pas na drie dagen vonden zij Hem in de tempel, waar Hij te midden van de leraren zat, naar wie Hij luisterde en aan wie Hij vragen stelde. Allen die Hem hoorden, waren verbaasd over zijn begrip en zijn antwoorden.» (Luc 2:41-47).
-«Het terugvinden van Jezus in de tempel is de enige gebeurtenis die de stilte van de evangelies inzake de verborgen jaren van Jezus verbreekt. Jezus laat hier iets zien van het mysterie van zijn totale toewijding aan een zending die voortkomt uit zijn goddelijk afstamming: "Wist ge dan niet dat Ik in het huis van mijn Vader moest zijn?"» (KKK, 534).
+«Zijn ouders reisden ieder jaar, bij gelegenheid van het paasfeest, naar Jeruzalem. En overeenkomstig het gebruik bij dit feest gingen zij opnieuw daarheen toen Hij twaalf jaar geworden was. Maar na afloop van die dagen bleef het kind Jezus, terwijl zij terugkeerden, in Jeruzalem achter, zonder dat zijn ouders het wisten. In de mening dat Hij zich bij de karavaan bevond, gingen zij een dagreis ver en zochten Hem toen onder familieleden en bekenden. Omdat zij Hem niet vonden, keerden zij al zoekende naar Jeruzalem terug. Pas na drie dagen vonden zij Hem in de tempel, waar Hij te midden van de leraren zat, naar wie Hij luisterde en aan wie Hij vragen stelde. Allen die Hem hoorden, waren verbaasd over zijn begrip en zijn antwoorden.» (Lc. 2,41-47).
+«Het terugvinden van Jezus in de tempel is de enige gebeurtenis die de stilte van de evangelies inzake de verborgen jaren van Jezus verbreekt. Jezus laat hier iets zien van het mysterie van zijn totale toewijding aan een zending die voortkomt uit zijn goddelijk afstamming: 'Wist ge dan niet dat Ik in het huis van mijn Vader moest zijn?'» (KKK, 534).
 Eerste droevige geheim
 Jezus bidt in doodsangst tot Zijn hemelse Vader.
-«Toen Jezus met hen aan een landgoed kwam dat Getsémane heette, sprak Hij tot zijn leerlingen: "Blijft hier zitten, terwijl Ik ginds ga bidden." Petrus en de twee zonen van Zebedeüs nam Hij echter met zich mee. Hij begon bedroefd en beangst te worden. Toen sprak Hij tot hen: "Ik ben bedroefd tot stervens toe. Blijft hier en waakt met Mij." Nadat Hij een weinig verder was gegaan, wierp Hij zich plat ter aarde en bad: "Mijn Vader, als het mogelijk is, laat deze beker Mij voorbijgaan. Maar toch: niet zoals Ik wil, maar zoals Gij wilt."» (Mat 26:36-39).
+«Toen Jezus met hen aan een landgoed kwam dat Getsémane heette, sprak Hij tot zijn leerlingen: 'Blijft hier zitten, terwijl Ik ginds ga bidden.' Petrus en de twee zonen van Zebedeüs nam Hij echter met zich mee. Hij begon bedroefd en beangst te worden. Toen sprak Hij tot hen: 'Ik ben bedroefd tot stervens toe. Blijft hier en waakt met Mij.' Nadat Hij een weinig verder was gegaan, wierp Hij zich plat ter aarde en bad: 'Mijn Vader, als het mogelijk is, laat deze beker Mij voorbijgaan. Maar toch: niet zoals Ik wil, maar zoals Gij wilt.'» (Mt. 26,36-39).
 «Welnu, een dergelijk gevecht en een dergelijke overwinning zijn alleen maar mogelijk in het gebed. Door zijn gebed zegeviert Jezus over de verleider, meteen al aan het begin en in het uiteindelijke gevecht van zijn doodstrijd. In deze bede aan de Vader verenigt Christus ons met zijn gevecht en zijn doodsstrijd.» (KKK, 2849).
 Tweede droevige geheim
 Jezus wordt gegeseld.
-«Toen liet Pilatus Jezus geselen. De soldaten vlochten een kroon van doorntakken, zetten Hem die op het hoofd en wierpen Hem een purperen mantel om. Ze traden op Hem toe en zeiden: "Gegroet, koning der Joden!" En zij sloegen Hem in het gezicht.» (Joh 19:1-3).
-«Het lijden van Jezus heeft een concrete, historische vorm gekregen doordat Hij "door de oudsten, de hogepriesters en de schriftgeleerden verworpen is" (Mar. 8:31): zij hebben Hem "aan de heidenen overgeleverd om Hem te bespotten, te geselen en te kruisigen" (Mat. 20:19).» (KKK, 572).
+«Toen liet Pilatus Jezus geselen. De soldaten vlochten een kroon van doorntakken, zetten Hem die op het hoofd en wierpen Hem een purperen mantel om. Ze traden op Hem toe en zeiden: 'Gegroet, koning der Joden!' En zij sloegen Hem in het gezicht.» (Joh. 19,1-3).
+«Het lijden van Jezus heeft een concrete, historische vorm gekregen doordat Hij "door de oudsten, de hogepriesters en de schriftgeleerden verworpen is" (Mc. 8,31): zij hebben Hem "aan de heidenen overgeleverd om Hem te bespotten, te geselen en te kruisigen" (Mt. 20,19).» (KKK, 572).
 Derde droevige geheim
 Jezus wordt met doornen gekroond.
-«Toen namen de soldaten van de landvoogd Jezus mee in het pretorium en verzamelden de hele afdeling rondom Hem. Zij trokken Hem zijn kleren uit en hingen Hem een rode mantel om. Ook vlochten ze een kroon van doorntakken, zetten die op zijn hoofd en gaven Hem een rietstok in de rechterhand. Dan vielen ze voor Hem op de knieën en bespotten Hem met de woorden: "Gegroet, koning der Joden!"» (Mat 27:27-29).
+«Toen namen de soldaten van de landvoogd Jezus mee in het pretorium en verzamelden de hele afdeling rondom Hem. Zij trokken Hem zijn kleren uit en hingen Hem een rode mantel om. Ook vlochten ze een kroon van doorntakken, zetten die op zijn hoofd en gaven Hem een rietstok in de rechterhand. Dan vielen ze voor Hem op de knieën en bespotten Hem met de woorden: 'Gegroet, koning der Joden!'» (Mt. 27,27-29).
 «Het is "de liefde tot het uiterste toe" die aan het offer van Christus zijn waarde van verlossing en herstel, verzoening en genoegdoening verleent. Hij heeft ons allen gekend en bemind in het offer van zijn leven.» (KKK, 616).
 Vierde droevige geheim
 Jezus draagt Zijn kruis naar de Calvarieberg.
-«Zij vorderden een voorbijganger die van het veld kwam, Simon van Cyrene, de vader van Alexander en Rufus, tot het dragen van het kruis. Zo brachten ze Hem naar de plaats Golgota, wat vertaald wordt met Schedelplaats.» (Mar 15:21-22).
-«Door met zijn menselijke wil ermee in te stemmen dat de wil van de Vader geschiede, aanvaardt Hij zijn verlossende dood om in zijn eigen lichaam onze zonden op het kruishout te dragen" (1 Pet. 2:24).» (KKK, 612).
+«Zij vorderden een voorbijganger die van het veld kwam, Simon van Cyrene, de vader van Alexander en Rufus, tot het dragen van het kruis. Zo brachten ze Hem naar de plaats Golgota, wat vertaald wordt met Schedelplaats.» (Mc. 15,21-22).
+«Door met zijn menselijke wil ermee in te stemmen dat de wil van de Vader geschiede, aanvaardt Hij zijn verlossende dood om "in zijn eigen lichaam onze zonden op het kruishout te dragen" (1 Petr. 2,24).» (KKK, 612).
 Vijfde droevige geheim
 Jezus sterft aan het kruis.
-«Het volk stond toe te kijken, maar de overheidspersonen lachten Hem uit en zeiden: "Anderen heeft Hij gered; laat Hij zichzelf eens redden, als Hij de Messias van God is, de uitverkorene!" De soldaten brachten Hem zure wijn, en ook zij voegden Hem spottend toe: 'Als Gij de koning der Joden zijt, red dan uzelf.' Boven Hem stond als opschrift in Griekse, Romeinse en Hebreeuwse letters: 'Dit is de koning der Joden.' Ook een van de misdadigers die daar hingen, hoonde Hem: 'Zijt Gij niet de Messias? Red dan uzelf en ons.' Maar de andere strafte hem af en zei: 'Heb zelfs jij geen vrees voor God, terwijl je toch hetzelfde vonnis ondergaat? En wij terecht, want wij krijgen wat we door onze daden verdiend hebben; maar Hij heeft niets verkeerds gedaan.' Daarop zei hij: 'Jezus, denk aan mij, wanneer Gij in uw Koninkrijk gekomen zijt.' En Jezus sprak tot hem: 'Voorwaar, Ik zeg u: Vandaag nog zult gij met Mij zijn in het paradijs.' Het was nu omtrent het zesde uur; er viel duisternis over heel de streek tot aan het negende uur toe, doordat de zon geen licht meer gaf. Het voorhangsel van de tempel scheurde middendoor. Toen riep Jezus met luider stem: "Vader, in uw handen beveel Ik mijn geest." Nadat Hij dit gezegd had, gaf Hij de geest.» (Luc 23:33-46).
-«"Christus is gestorven voor onze zonden, volgens de Schriften" (1 Kor. 15:3)» (KKK, 619).
+«Het volk stond toe te kijken, maar de overheidspersonen lachten Hem uit en zeiden: 'Anderen heeft Hij gered; laat Hij zichzelf eens redden, als Hij de Messias van God is, de uitverkorene!' De soldaten brachten Hem zure wijn, en ook zij voegden Hem spottend toe: 'Als Gij de koning der Joden zijt, red dan uzelf.' Boven Hem stond als opschrift in Griekse, Romeinse en Hebreeuwse letters: 'Dit is de koning der Joden.' Ook een van de misdadigers die daar hingen, hoonde Hem: 'Zijt Gij niet de Messias? Red dan uzelf en ons.' Maar de andere strafte hem af en zei: 'Heb zelfs jij geen vrees voor God, terwijl je toch hetzelfde vonnis ondergaat? En wij terecht, want wij krijgen wat we door onze daden verdiend hebben; maar Hij heeft niets verkeerds gedaan.' Daarop zei hij: 'Jezus, denk aan mij, wanneer Gij in uw Koninkrijk gekomen zijt.' En Jezus sprak tot hem: 'Voorwaar, Ik zeg u: Vandaag nog zult gij met Mij zijn in het paradijs.' Het was nu omtrent het zesde uur; er viel duisternis over heel de streek tot aan het negende uur toe, doordat de zon geen licht meer gaf. Het voorhangsel van de tempel scheurde middendoor. Toen riep Jezus met luider stem: 'Vader, in uw handen beveel Ik mijn geest.' Nadat Hij dit gezegd had, gaf Hij de geest.» (Lc. 23,33-46).
+«"Christus is gestorven voor onze zonden, volgens de Schriften" (1 Kor. 15,3)» (KKK, 619).
 Eerste geheim van het licht
 De doop van Jezus in de Jordaan.
-«Nadat Jezus gedoopt was, steeg Hij terstond uit het water. En zie, daar ging de hemel open en Hij zag de Geest Gods neerdalen in de gedaante van een duif en over zich komen; en een stem uit de hemel sprak: Dit is mijn Zoon, mijn veelgeliefde, in wie Ik welbehagen heb."» (Mat 3:16-17).
-«Het begin van het openbare leven van Jezus is zijn doopsel door Johannes in de Jordaan. Johannes verkondigde "een doopsel van bekering tot vergeving van de zonden" (Luk. 3:3).» (KKK, 535).
+«Nadat Jezus gedoopt was, steeg Hij terstond uit het water. En zie, daar ging de hemel open en Hij zag de Geest Gods neerdalen in de gedaante van een duif en over zich komen; en een stem uit de hemel sprak: 'Dit is mijn Zoon, mijn veelgeliefde, in wie Ik welbehagen heb'» (Mt. 3,16-17).
+«Het begin van het openbare leven van Jezus is zijn doopsel door Johannes in de Jordaan. Johannes verkondigde "een doopsel van bekering tot vergeving van de zonden" (Lc. 3,3).» (KKK, 535).
 Tweede geheim van het licht
 De openbaring van Jezus op de bruiloft van Kana.
-«Op de derde dag was er een bruiloft te Kana in Galilea, waarbij de moeder van Jezus aanwezig was. Jezus en zijn leerlingen waren eveneens op die bruiloft uitgenodigd. Toen de wijn opraakte, zei de moeder van Jezus tot Hem: "Ze hebben geen wijn meer." Jezus zei tot haar: "Vrouw, is dat soms uw zaak? Nog is mijn uur niet gekomen." Zijn moeder sprak tot de bedienden: "Doet maar wat Hij u zeggen zal."» (Joh 2:1-5).
+«Op de derde dag was er een bruiloft te Kana in Galilea, waarbij de moeder van Jezus aanwezig was. Jezus en zijn leerlingen waren eveneens op die bruiloft uitgenodigd. Toen de wijn opraakte, zei de moeder van Jezus tot Hem: 'Ze hebben geen wijn meer.' Jezus zei tot haar: 'Vrouw, is dat soms uw zaak? Nog is mijn uur niet gekomen.' Zijn moeder sprak tot de bedienden: 'Doet maar wat Hij u zeggen zal.'» (Joh. 2,1-5).
 «In het begin van zijn openbaar leven verrichtte Jezus, op verzoek van zijn Moeder, zijn eerste teken tijdens een bruiloftsfeest. De Kerk kent een groot belang toe aan de aanwezigheid van Jezus op de bruiloft van Kana. Zij beschouwt dit als een bevestiging van de goedheid van het huwelijk; hiermee wordt aangekondigd dat het huwelijk voortaan een werkzaam teken zal zijn van de aanwezigheid van Christus.» (KKK, 1613).
 Derde geheim van het licht
 Jezus' aankondiging van het Rijk Gods.
-«Hij zei: "De tijd is vervuld en het Rijk Gods is nabij; bekeert u en gelooft in de Blijde Boodschap."» (Mar 1:15).
+«Hij zei: 'De tijd is vervuld en het Rijk Gods is nabij; bekeert u en gelooft in de Blijde Boodschap.'» (Mc. 1,15).
 «Alle mensen zijn geroepen binnen te gaan in het koninkrijk. Allereerst verkondigd aan de kinderen van Israël, is dit Messiaanse koninkrijk bestemd om de mensen van alle volken op te nemen.» (KKK, 543).
 Vierde geheim van het licht
 De gedaanteverandering van Jezus op de berg Tabor.
-«Zes dagen later nam Jezus Petrus, Jakobus en diens broer Johannes met zich mee en bracht hen boven op een hoge berg, waar zij alleen waren. Hij werd voor hun ogen van gedaante veranderd: zijn gelaat begon te stralen als de zon en zijn kleed werd glanzend als het licht.» (Mat 17:1-2).
-«Eén ogenblik toont Jezus zijn goddelijke heerlijkheid en bevestigt zo de belijdenis van Petrus. Hij toont ook dat Hij om "in zijn glorie binnen te gaan" (Luk. 24:26)» (KKK, 555).
+«Zes dagen later nam Jezus Petrus, Jakobus en diens broer Johannes met zich mee en bracht hen boven op een hoge berg, waar zij alleen waren. Hij werd voor hun ogen van gedaante veranderd: zijn gelaat begon te stralen als de zon en zijn kleed werd glanzend als het licht.» (Mt. 17,1-2).
+«Eén ogenblik toont Jezus zijn goddelijke heerlijkheid en bevestigt zo de belijdenis van Petrus. Hij toont ook dat Hij om "in zijn glorie binnen te gaan" (Lc. 24,26)» (KKK, 555).
 Vijfde geheim van het licht
 Jezus stelt de eucharistie in tijdens het Laatste Avondmaal.
-«Onder de maaltijd nam Jezus brood, sprak de zegen uit, brak het en gaf het aan zijn leerlingen met de woorden: "Neemt, eet; dit is mijn Lichaam."» (Mat 26:26).
+«Onder de maaltijd nam Jezus brood, sprak de zegen uit, brak het en gaf het aan zijn leerlingen met de woorden: 'Neemt, eet; dit is mijn Lichaam.'» (Mt. 26,26).
 «Jezus vierde tijdens het paasmaal met zijn apostelen het laatste avondmaal en zo gaf Hij aan het joodse paasfeest zijn definitieve zin. Door Zijn dood en verrijzenis, het nieuwe Pasen, loopt het avondmaal inderdaad vooruit op de overgang van Jezus naar zijn Vader. Dit wordt gevierd in de Eucharistie die het joodse paasfeest tot vervulling brengt en vooruitgrijpt op het uiteindelijke paasfeest van de Kerk in de heerlijkheid van het Koninkrijk.» (KKK, 1340).
 Eerste glorievolle geheim
 Jezus verrijst uit de doden.
-«Op de eerste dag van de week echter gingen zij zeer vroeg in de morgen naar het graf, met de welriekende kruiden die zij klaar gemaakt hadden. Zij vonden de steen weggerold van het graf, gingen binnen, maar vonden er het lichaam van de Heer Jezus niet. Terwijl zij niet wisten wat daarvan te denken, stonden er plotseling twee mannen voor hen in een stralend wit kleed. Toen zij van schrik bevangen het hoofd naar de grond bogen, vroegen de mannen haar: "Wat zoekt ge de Levende bij de doden?"» (Luc 24:1-5).
-«"Wanneer Christus niet is verrezen, is onze prediking zonder inhoud en ons geloof eveneens" (1 Kor. 15:14). De verrijzenis is vóór alles de bevestiging van alles wat Christus zelf gedaan en geleerd heeft. Alle waarheden, zelfs die welke voor de menselijke geest het minst toegankelijk zijn, vinden hun rechtvaardiging, als Christus door te verrijzen het definitieve bewijs van zijn goddelijk gezag heeft gegeven, zoals Hij beloofd had.» (KKK, 651).
+«Op de eerste dag van de week echter gingen zij zeer vroeg in de morgen naar het graf, met de welriekende kruiden die zij klaar gemaakt hadden. Zij vonden de steen weggerold van het graf, gingen binnen, maar vonden er het lichaam van de Heer Jezus niet. Terwijl zij niet wisten wat daarvan te denken, stonden er plotseling twee mannen voor hen in een stralend wit kleed. Toen zij van schrik bevangen het hoofd naar de grond bogen, vroegen de mannen haar: 'Wat zoekt ge de Levende bij de doden?'» (Lc. 24,1-5).
+«"Wanneer Christus niet is verrezen, is onze prediking zonder inhoud en ons geloof eveneens" (1 Kor. 15,14). De verrijzenis is vóór alles de bevestiging van alles wat Christus zelf gedaan en geleerd heeft. Alle waarheden, zelfs die welke voor de menselijke geest het minst toegankelijk zijn, vinden hun rechtvaardiging, als Christus door te verrijzen het definitieve bewijs van zijn goddelijk gezag heeft gegeven, zoals Hij beloofd had.» (KKK, 651).
 Tweede glorievolle geheim
 Jezus stijgt op ten hemel.
-«Nadat de Heer Jezus aldus tot hen gesproken had, werd Hij ten hemel opgenomen en zit aan de rechterhand van God.» (Mar 16:19).
+«Nadat de Heer Jezus aldus tot hen gesproken had, werd Hij ten hemel opgenomen en zit aan de rechterhand van God.» (Mc. 16,19).
 «Deze laatste fase blijft nauw verbonden met de eerste, d.w.z. de nederdaling uit de hemel, verwezenlijkt in de menswording: alleen Hij die "van de Vader is uitgegaan" kan "naar de Vader gaan.": Christus.» (KKK, 661).
 Derde glorievolle geheim
 De heilige Geest daalt neer over de apostelen.
-«Toen de dag van Pinksteren aanbrak, waren allen bijeen op dezelfde plaats. Plotseling kwam uit de hemel een gedruis alsof er een hevige wind opstak en heel het huis waar zij gezeten waren, was er vol van. Er verscheen hun iets dat op vuur geleek en dat zich, in tongen verdeeld, op ieder van hen neerzette. Zij werden allen vervuld van de heilige Geest en begonnen in vreemde talen te spreken, naargelang de Geest hun te vertolken gaf.» (Han 2:1-4).
+«Toen de dag van Pinksteren aanbrak, waren allen bijeen op dezelfde plaats. Plotseling kwam uit de hemel een gedruis alsof er een hevige wind opstak en heel het huis waar zij gezeten waren, was er vol van. Er verscheen hun iets dat op vuur geleek en dat zich, in tongen verdeeld, op ieder van hen neerzette. Zij werden allen vervuld van de heilige Geest en begonnen in vreemde talen te spreken, naargelang de Geest hun te vertolken gaf.» (Han. 2,1-4).
 «"Heilige Geest", zo luidt de eigennaam van Hem die wij aanbidden en verheerlijken tezamen met de Vader en de Zoon. De Kerk heeft deze naam ontvangen van de Heer en belijdt hem bij het Doopsel van haar nieuwe kinderen.» (KKK, 691).
 Vierde glorievolle geheim
 Maria wordt in de hemel opgenomen.
-«...daar Hij welwillend neerzag op de kleinheid zijner dienstmaagd. En zie, van heden af prijst elk geslacht mij zalig omdat aan mij zijn wonderwerken deed Die machtig is, en heilig is zijn Naam.» (Luc 1:48-49).
+«...daar Hij welwillend neerzag op de kleinheid zijner dienstmaagd. En zie, van heden af prijst elk geslacht mij zalig omdat aan mij zijn wonderwerken deed Die machtig is, en heilig is zijn Naam.» (Lc. 1,48-49).
 «Nadat de allerheiligste maagd Maria haar aardse levensloop voltooid had, werd zij met lichaam en ziel opgenomen in de heerlijkheid van de hemel. Daar heeft zij reeds deel aan de heerlijkheid van de verrijzenis van haar Zoon, en zo loopt zij vooruit op de verrijzenis van alle ledematen van zijn lichaam.» (KKK, 974).
 Vijfde glorievolle geheim
 Maria wordt in de hemel gekroond.
-«En er verscheen een groot teken aan de hemel: een vrouw, bekleed met de zon, de maan onder haar voeten en op haar hoofd een kroon van twaalf sterren.» (Rev 12:1).
+«En er verscheen een groot teken aan de hemel: een vrouw, bekleed met de zon, de maan onder haar voeten en op haar hoofd een kroon van twaalf sterren.» (Apok. 12,1).
 «"Tenslotte is de onbevlekte Maagd, gevrijwaard van iedere smet van de erfzonde, na het voltooien van haar aardse levensloop, met lichaam en ziel in de hemelse heerlijkheid opgenomen en door de Heer verheven tot koningin van het heelal om zo gelijkvormiger te worden aan haar Zoon, de Heer der heren en de overwinnaar van zonde en dood".» (KKK, 966).
 
 [Rechten]
